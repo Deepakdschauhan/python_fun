@@ -1,0 +1,6 @@
+#this program allows you to print a numbers series in one click ...
+for num in range(int(input("enter the last number :  "))):
+    print(num+1)
+else:
+    print("the end..")
+    # just enter last number and run the program ....
